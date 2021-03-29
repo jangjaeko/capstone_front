@@ -5,6 +5,7 @@ import './Sections/Navbar.css';
 import Icon from '@ant-design/icons';
 import axios from 'axios';
 import logo from './Sections/onTact.png'
+import {UserOutlined} from '@ant-design/icons';
 function NavBar() {
   const [visible, setVisible] = useState(false)
 
@@ -17,33 +18,17 @@ function NavBar() {
   };
 
   return (
-    <nav className="menu" style={{ position: 'fixed', zIndex: 5, width: '100%' }}>
+    <nav className="menu" style={{ position: 'fixed', zIndex: 5, width: '100%',height:'60px' }}>
       <div className="menu__logo">
-        <img src={logo} href="/" style= {{marginTop: '10px',width: '70px', height : '30px'}}/>
+        <img src={logo} href="/" style= {{marginTop: '15px',marginLeft :'50px',width: '80px', height : '30px'}}/>
       </div>
-      <div className="menu__container">
-        <div className="menu_left">
-          <LeftMenu mode="horizontal" />
-        </div>
-       
-        <Button
-          className="menu__mobile-button"
-          type="primary"
-          onClick={showDrawer}
-        >
-          <Icon type="align-right" />
-        </Button>
-        <Drawer
-          title="Basic Drawer"
-          placement="right"
-          className="menu_drawer"
-          closable={false}
-          onClose={onClose}
-          visible={visible}
-        >
-          <LeftMenu mode="inline" />
-        </Drawer>
+      <div style={{float :' right '}}>
+        <h6 style={{marginTop:'20px',marginRight :'50px'}}>logout</h6>
       </div>
+      <div style={{float :'right'}}>
+      <h6 style={{marginTop:'20px',marginRight :'50px'}} ><UserOutlined style={{verticalAlign: 'bottom'}}/> 김국문님 </h6>
+      </div>
+      
     </nav>
   )
 }

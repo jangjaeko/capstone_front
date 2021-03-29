@@ -3,7 +3,7 @@ import { Route, Switch } from "react-router-dom";
 import LandingPage from "./views/LandingPage"
 import NavBar from "./views/Navbar/NavBar";
 import StudentPage from "./views/StudentPage/StudentPage";
-
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
     return (
