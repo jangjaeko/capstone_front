@@ -23,7 +23,7 @@ function Lecturelist() {
                             <div class="d-flex flex-column"> <span>고급프로그래밍 입문-P(002) </span>
                                 <div class="d-flex flex-row align-items-center time-text"> <span class="dots"></span> <small>여러 교수자</small> </div>
                             </div>
-                        </div>  <div class="d-flex flex-row"> <button class="btn btn-success mr-2 font-weight-bold">출석확인</button><button class="btn btn-warning mr-2 font-weight-bold"> 녹화강의</button> </div>
+                        </div>  <div class="d-flex flex-row"> <button class="btn btn-success mr-2 font-weight-bold" style={{fontSize:"1rem"}}>출석확인</button><button class="btn btn-warning mr-2 font-weight-bold" style={{fontSize:"1rem"}}> 녹화강의</button> </div>
                     </div>
                 </div>
                 <div class="mt-3">
@@ -32,7 +32,7 @@ function Lecturelist() {
                             <div class="d-flex flex-column"> <span>Capstone 디자인(산학협렵프로젝트)(001)</span>
                                 <div class="d-flex flex-row align-items-center time-text"> <span class="dots"></span> <small>여러 교수자</small> </div>
                             </div>
-                        </div> <div class="d-flex flex-row"> <button class="btn btn-success mr-2 font-weight-bold">출석확인</button><button class="btn btn-warning mr-2 font-weight-bold"> 녹화강의</button> </div>
+                        </div> <div class="d-flex flex-row"> <button class="btn btn-success mr-2 font-weight-bold" style={{fontSize:"1rem"}}>출석확인</button><button class="btn btn-warning mr-2 font-weight-bold" style={{fontSize:"1rem"}}> 녹화강의</button> </div>
                     </div>
                 </div>
                 <div class="mt-3">
@@ -41,7 +41,7 @@ function Lecturelist() {
                             <div class="d-flex flex-column"> <span>Technical Writing</span>
                                 <div class="d-flex flex-row align-items-center time-text">  <span class="dots"></span> <small>진실로</small>  </div>
                             </div>
-                        </div> <div class="d-flex flex-row"> <button class="btn btn-success mr-2 font-weight-bold">출석확인</button><button class="btn btn-warning mr-2 font-weight-bold"> 녹화강의</button> </div>
+                        </div> <div class="d-flex flex-row"> <button class="btn btn-success mr-2 font-weight-bold" style={{fontSize:"1rem"}}>출석확인</button><button class="btn btn-warning mr-2 font-weight-bold" style={{fontSize:"1rem"}}> 녹화강의</button> </div>
                     </div>
                 </div>
                 <div class="mt-3">
@@ -50,7 +50,7 @@ function Lecturelist() {
                             <div class="d-flex flex-column"> <span>운영체제 맟 프로그래밍(001)</span>
                                 <div class="d-flex flex-row align-items-center time-text"> <span class="dots"></span> <small>Muhamad Raheal Butta</small> </div>
                             </div>
-                        </div> <div class="d-flex flex-row"> <button class="btn btn-success mr-2 font-weight-bold">출석확인</button><button class="btn btn-warning mr-2 font-weight-bold"> 녹화강의</button> </div>
+                        </div> <div class="d-flex flex-row"> <button class="btn btn-success mr-2 font-weight-bold" style={{fontSize:"1rem"}}>출석확인</button><button class="btn btn-warning mr-2 font-weight-bold" style={{fontSize:"1rem"}}> 녹화강의</button> </div>
                     </div>
                 </div>
             </div>

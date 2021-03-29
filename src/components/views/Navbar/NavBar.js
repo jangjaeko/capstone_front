@@ -20,13 +20,13 @@ function NavBar() {
   return (
     <nav className="menu" style={{ position: 'fixed', zIndex: 5, width: '100%',height:'60px' }}>
       <div className="menu__logo">
-        <img src={logo} href="/" style= {{marginTop: '15px',marginLeft :'50px',width: '80px', height : '30px'}}/>
+        <img src={logo} href="/" style= {{marginTop: '15px',marginLeft :'50px',width: '100px', height : '30px'}}/>
       </div>
       <div style={{float :' right '}}>
         <h6 style={{marginTop:'20px',marginRight :'50px'}}>logout</h6>
       </div>
       <div style={{float :'right'}}>
-      <h6 style={{marginTop:'20px',marginRight :'50px'}} ><UserOutlined style={{verticalAlign: 'bottom'}}/> 김국문님 </h6>
+      <h6 style={{marginTop:'20px',marginRight :'50px',fontWeight : 'bold'}} ><UserOutlined style={{verticalAlign: 'top'}}/> 이주혁님 </h6>
       </div>
       
     </nav>
