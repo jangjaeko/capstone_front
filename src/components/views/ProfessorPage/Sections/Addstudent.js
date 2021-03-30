@@ -18,7 +18,7 @@ function Addstudent() {
                 </div>
                 <div class="mt-3">
                     <div class="d-flex justify-content-between align-items-center">
-                        <div class="d-flex flex-row align-items-center"> <span style={{fontWeight:'bold'}} >1주차</span>
+                        <div class="d-flex flex-row align-items-center"> <span style={{fontWeight:'bold'}} >1회차</span>
                             <div class="d-flex flex-column align-items-center" style={{width: "100px"}}> <span class="badge badge-success" style={{fontSize : '1rem'}}>출석</span></div>
                             <div class="d-flex flex-column align-items-center" style={{width: "100px"}}> <span style={{fontSize: '1rem', fontWeight:'bold'}} >지각</span> </div> 
                             <div class="d-flex flex-column align-items-center" style={{width: "100px"}}> <span style={{fontSize: '1rem', fontWeight:'bold'}} >결석</span> </div> 
@@ -27,7 +27,7 @@ function Addstudent() {
                 </div>
                 <div class="mt-3">
                     <div class="d-flex justify-content-between align-items-center">
-                        <div class="d-flex flex-row align-items-center"> <span style={{fontWeight:'bold'}} >2주차</span>
+                        <div class="d-flex flex-row align-items-center"> <span style={{fontWeight:'bold'}} >2회차</span>
                             <div class="d-flex flex-column align-items-center" style={{width: "100px"}}> <span class="badge badge-success" style={{fontSize : '1rem' }}>출석</span></div>
                             <div class="d-flex flex-column align-items-center" style={{width: "100px"}}> <span style={{fontSize: '1rem', fontWeight:'bold'}} >지각</span> </div> 
                             <div class="d-flex flex-column align-items-center" style={{width: "100px"}}> <span style={{fontSize: '1rem', fontWeight:'bold'}} >결석</span> </div> 
@@ -36,7 +36,7 @@ function Addstudent() {
                 </div>
                 <div class="mt-3">
                     <div class="d-flex justify-content-between align-items-center">
-                        <div class="d-flex flex-row align-items-center"> <span style={{fontWeight:'bold'}} >3주차</span>
+                        <div class="d-flex flex-row align-items-center"> <span style={{fontWeight:'bold'}} >3회차</span>
                             <div class="d-flex flex-column align-items-center" style={{width: "100px"}}> <span class="badge badge-success" style={{fontSize : '1rem' }}>출석</span></div>
                             <div class="d-flex flex-column align-items-center" style={{width: "100px"}}> <span style={{fontSize: '1rem', fontWeight:'bold'}} >지각</span> </div> 
                             <div class="d-flex flex-column align-items-center" style={{width: "100px"}}> <span style={{fontSize: '1rem', fontWeight:'bold'}} >결석</span> </div> 
@@ -45,7 +45,7 @@ function Addstudent() {
                 </div>
                 <div class="mt-3">
                     <div class="d-flex justify-content-between align-items-center">
-                        <div class="d-flex flex-row align-items-center"> <span style={{fontWeight:'bold'}} >4주차</span>
+                        <div class="d-flex flex-row align-items-center"> <span style={{fontWeight:'bold'}} >4회차</span>
                             <div class="d-flex flex-column align-items-center" style={{width: "100px"}}> <span class="badge badge-success" style={{fontSize : '1rem'}}>출석</span></div>
                             <div class="d-flex flex-column align-items-center" style={{width: "100px"}}> <span style={{fontSize: '1rem', fontWeight:'bold'}} >지각</span> </div> 
                             <div class="d-flex flex-column align-items-center" style={{width: "100px"}}> <span style={{fontSize: '1rem', fontWeight:'bold'}} >결석</span> </div> 
@@ -54,7 +54,7 @@ function Addstudent() {
                 </div>
                 <div class="mt-3">
                     <div class="d-flex justify-content-between align-items-center">
-                        <div class="d-flex flex-row align-items-center"> <span style={{fontWeight:'bold'}} >5주차</span>
+                        <div class="d-flex flex-row align-items-center"> <span style={{fontWeight:'bold'}} >5회차</span>
                             <div class="d-flex flex-column align-items-center" style={{width: '100px'}}> <span style={{fontSize: '1rem', fontWeight:'bold'}} >출석</span> </div> 
                             <div class="d-flex flex-column align-items-center" style={{width: "100px"}}> <span class="badge badge-warning" style={{fontSize : '1rem' }}>지각</span></div>
                             <div class="d-flex flex-column align-items-center" style={{width: "100px"}}> <span style={{fontSize: '1rem', fontWeight:'bold'}} >결석</span> </div> 
@@ -63,7 +63,7 @@ function Addstudent() {
                 </div>
                 <div class="mt-3">
                     <div class="d-flex justify-content-between align-items-center">
-                        <div class="d-flex flex-row align-items-center"> <span style={{fontWeight:'bold'}} >6주차</span>
+                        <div class="d-flex flex-row align-items-center"> <span style={{fontWeight:'bold'}} >6회차</span>
                             <div class="d-flex flex-column align-items-center align-items-center" style={{width: "100px"}}> <span class="badge badge-success  " style={{fontSize : '1rem'}}>출석</span></div>
                             <div class="d-flex flex-column align-items-center" style={{width: "100px"}}> <span style={{fontSize: '1rem', fontWeight:'bold'}} >지각</span> </div> 
                             <div class="d-flex flex-column align-items-center" style={{width: "100px"}}> <span style={{fontSize: '1rem', fontWeight:'bold'}} >결석</span> </div> 
@@ -72,7 +72,7 @@ function Addstudent() {
                 </div>
                 <div class="mt-3">
                     <div class="d-flex justify-content-between align-items-center">
-                        <div class="d-flex flex-row align-items-center"> <span style={{fontWeight:'bold'}} >7주차</span>
+                        <div class="d-flex flex-row align-items-center"> <span style={{fontWeight:'bold'}} >7회차</span>
                             
                             <div class="d-flex flex-column align-items-center" style={{width:"100px"}} > <span style={{fontSize: '1rem', fontWeight:'bold', textAlign :'center'}} >출석</span> </div> 
                             <div class="d-flex flex-column align-items-center" style={{width: "100px"}}> <span style={{fontSize: '1rem', fontWeight:'bold'}} >지각</span> </div> 
@@ -82,7 +82,7 @@ function Addstudent() {
                 </div>
                 <div class="mt-3">
                     <div class="d-flex justify-content-between align-items-center">
-                        <div class="d-flex flex-row align-items-center"> <span style={{fontWeight:'bold'}} >8주차</span>
+                        <div class="d-flex flex-row align-items-center"> <span style={{fontWeight:'bold'}} >8회차</span>
                             <div class="d-flex flex-column align-items-center" style={{width: "100px"}}> <span class="badge badge-success" style={{fontSize : '1rem'}}>출석</span></div>
                             <div class="d-flex flex-column align-items-center" style={{width: "100px"}}> <span style={{fontSize: '1rem', fontWeight:'bold'}} >지각</span> </div> 
                             <div class="d-flex flex-column align-items-center" style={{width: "100px"}}> <span style={{fontSize: '1rem', fontWeight:'bold'}} >결석</span> </div> 
@@ -91,7 +91,7 @@ function Addstudent() {
                 </div>
                 <div class="mt-3">
                     <div class="d-flex justify-content-between align-items-center">
-                        <div class="d-flex flex-row align-items-center"> <span style={{fontWeight:'bold'}} >9주차</span>
+                        <div class="d-flex flex-row align-items-center"> <span style={{fontWeight:'bold'}} >9회차</span>
                             <div class="d-flex flex-column align-items-center" style={{width: "100px"}}> <span class="badge badge-success" style={{fontSize : '1rem'}}>출석</span></div>
                             <div class="d-flex flex-column align-items-center" style={{width: "100px"}}> <span style={{fontSize: '1rem', fontWeight:'bold'}} >지각</span> </div> 
                             <div class="d-flex flex-column align-items-center" style={{width: "100px"}}> <span style={{fontSize: '1rem', fontWeight:'bold'}} >결석</span> </div> 
@@ -100,7 +100,7 @@ function Addstudent() {
                 </div>
                 <div class="mt-3">
                     <div class="d-flex justify-content-between align-items-center">
-                        <div class="d-flex flex-row align-items-center"> <span style={{fontWeight:'bold'}} >10주차</span>
+                        <div class="d-flex flex-row align-items-center"> <span style={{fontWeight:'bold'}} >10회차</span>
                             <div class="d-flex flex-column align-items-center" style={{width:'80px'}}> <span class="badge badge-success" style={{fontSize : '1rem' }}>출석</span></div>
                             <div class="d-flex flex-column align-items-center" style={{width: "120px"}}> <span style={{fontSize: '1rem', fontWeight:'bold'}} >지각</span> </div> 
                             <div class="d-flex flex-column align-items-center" style={{width: "80px"}}> <span style={{fontSize: '1rem', fontWeight:'bold'}} >결석</span> </div> 
