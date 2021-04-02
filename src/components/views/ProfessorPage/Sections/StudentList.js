@@ -23,7 +23,7 @@ function StudentList() {
                             <div class="d-flex flex-column"> <span>16012416 장재호 </span>
                                 
                             </div>
-                        </div>  <div class="d-flex flex-row"> <button class="btn btn-success mr-2 font-weight-bold" style={{fontSize:"1rem"}}>출결확인</button> </div>
+                        </div>  <div class="d-flex flex-row"> <button class="btn btn-success mr-2 font-weight-bold" style={{fontSize:"1rem"}}>출석확인</button> </div>
                     </div>
                 </div>
                 <div class="mt-3">
@@ -32,7 +32,7 @@ function StudentList() {
                             <div class="d-flex flex-column"> <span>17011613 장세정</span>
                                
                             </div>
-                        </div> <div class="d-flex flex-row"> <button class="btn btn-success mr-2 font-weight-bold" style={{fontSize:"1rem"}}>출결확인</button> </div>
+                        </div> <div class="d-flex flex-row"> <button class="btn btn-success mr-2 font-weight-bold" style={{fontSize:"1rem"}}>출석확인</button> </div>
                     </div>
                 </div>
                 <div class="mt-3">
@@ -41,7 +41,7 @@ function StudentList() {
                             <div class="d-flex flex-column"> <span>17011821 이주혁</span>
                                
                             </div>
-                        </div> <div class="d-flex flex-row"> <button class="btn btn-success mr-2 font-weight-bold" style={{fontSize:"1rem"}}>출결확인</button> </div>
+                        </div> <div class="d-flex flex-row"> <button class="btn btn-success mr-2 font-weight-bold" style={{fontSize:"1rem"}}>출석확인</button> </div>
                     </div>
                 </div>
                 <div class="mt-3">
@@ -50,7 +50,7 @@ function StudentList() {
                             <div class="d-flex flex-column"> <span>18012412 김형찬</span>
                                
                             </div>
-                        </div> <div class="d-flex flex-row"> <button class="btn btn-success mr-2 font-weight-bold" style={{fontSize:"1rem"}}>출결확인</button> </div>
+                        </div> <div class="d-flex flex-row"> <button class="btn btn-success mr-2 font-weight-bold" style={{fontSize:"1rem"}}>출석확인</button> </div>
                     </div>
                 </div>
                 <div class="mt-3">
@@ -59,7 +59,7 @@ function StudentList() {
                             <div class="d-flex flex-column"> <span>18012422 서경원</span>
                                
                             </div>
-                        </div> <div class="d-flex flex-row"> <button class="btn btn-success mr-2 font-weight-bold" style={{fontSize:"1rem"}}>출결확인</button> </div>
+                        </div> <div class="d-flex flex-row"> <button class="btn btn-success mr-2 font-weight-bold" style={{fontSize:"1rem"}}>출석확인</button> </div>
                     </div>
                 </div>
                 <div class="mt-3">
@@ -68,7 +68,7 @@ function StudentList() {
                             <div class="d-flex flex-column"> <span>18012422 서경원</span>
                                
                             </div>
-                        </div> <div class="d-flex flex-row"> <button class="btn btn-success mr-2 font-weight-bold" style={{fontSize:"1rem"}}>출결확인</button> </div>
+                        </div> <div class="d-flex flex-row"> <button class="btn btn-success mr-2 font-weight-bold" style={{fontSize:"1rem"}}>출석확인</button> </div>
                     </div>
                     <div class="mt-3">
                     <div class="d-flex justify-content-between align-items-center">
@@ -76,7 +76,7 @@ function StudentList() {
                             <div class="d-flex flex-column"> <span>18012422 서경원</span>
                                
                             </div>
-                        </div> <div class="d-flex flex-row"> <button class="btn btn-success mr-2 font-weight-bold" style={{fontSize:"1rem"}}>출결확인</button> </div>
+                        </div> <div class="d-flex flex-row"> <button class="btn btn-success mr-2 font-weight-bold" style={{fontSize:"1rem"}}>출석확인</button> </div>
                     </div>
                 </div>
                 </div>
